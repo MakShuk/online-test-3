@@ -1,0 +1,38 @@
+{
+  "short_name": "Тест психотипов",
+  "name": "Как говорить так, чтобы вас услышали? | Тест о психотипах",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#3b82f6",
+  "background_color": "#ffffff",
+  "description": "Интерактивный тест о психотипах, помогающий улучшить коммуникацию в команде и понять мотивацию разных людей",
+  "lang": "ru",
+  "categories": [
+    "education",
+    "productivity",
+    "business",
+    "psychology",
+    "communication",
+    "self-development"
+  ],
+  "orientation": "portrait",
+  "scope": "/",
+  "prefer_related_applications": false
+}
